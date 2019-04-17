@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="E:/homework/java/softwaretest">
+        <classes>
+            <class name="com.zyf.swtest.computetest">
+                <methods>
+                    <include name="testcae0"/>
+                    <include name="testcase1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
