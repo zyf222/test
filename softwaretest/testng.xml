@@ -5,8 +5,7 @@
         <classes>
             <class name="com.zyf.swtest.computetest">
                 <methods>
-                    <include name="testcae0"/>
-                    <include name="testcase1"/>
+                    <include name="computeTest"/>
                 </methods>
             </class>
         </classes>
